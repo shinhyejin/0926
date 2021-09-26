@@ -8,7 +8,9 @@
     background: aqua;
     margin: 50px;
     transition: 0.5s;
+
     &:hover {
         transform: rotate(360deg) sclae(2);
     }
+
 }
