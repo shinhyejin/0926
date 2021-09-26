@@ -8,4 +8,10 @@ ul, li {
 a {
   text-decoration: none; }
 
+#box {
+  width: 200px;
+  height: 200px;
+  background: gray;
+  margin: 50px; }
+
 /*# sourceMappingURL=style.css.map */
