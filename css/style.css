@@ -12,6 +12,9 @@ a {
   width: 200px;
   height: 200px;
   background: hotpink;
-  margin: 50px; }
+  margin: 50px;
+  transition: 0.5s; }
+  #box:hover {
+    transform: rotate(360deg) scale(2); }
 
 /*# sourceMappingURL=style.css.map */
